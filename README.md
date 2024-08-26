@@ -124,7 +124,7 @@ We welcome contributions! If you'd like to contribute, please follow these steps
 -> Open a pull request.
 
 
-Contact
+# Contact
 For any questions, suggestions, or feedback, please feel free to reach out:
 
 Name: Harsh Gakare 
