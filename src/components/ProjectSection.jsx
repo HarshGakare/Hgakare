@@ -23,7 +23,7 @@ function ProjectSection() {
     <p className="font-lexends text-gray-400 mt-2 max-w-md mx-auto pb-16">
     Designed an interactive virtual assistant with dynamic features.
     </p>
-    <div className="mt-8 grid grid-cols-4 gap-4 max-w-6xl mx-auto">
+    <div className="mt-8 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 max-w-6xl mx-auto">
       <div className="h-96 bg-gray-400 rounded-md overflow-hidden">
         <img className="w-full h-full bg-cover" src={pr3} alt="" />
       </div>
@@ -39,13 +39,13 @@ function ProjectSection() {
       <div className="h-56 bg-gray-400 rounded-md overflow-hidden">
       <img className="w-full h-full bg-cover" src={ds3} alt="" />
       </div>
-      <div className="-mt-40 h-96 bg-gray-400 rounded-md overflow-hidden">
+      <div className="md:-mt-40  h-96 bg-gray-400 rounded-md overflow-hidden">
       <img className="w-full h-full bg-cover" src={pr2} alt="" />
       </div>
       <div className="h-56 bg-gray-400 rounded-md overflow-hidden">
       <img className="w-full h-full bg-cover" src={ds4} alt="" />
       </div>
-      <div className="-mt-40 h-96 bg-gray-400 rounded-md overflow-hidden">
+      <div className="md:-mt-40 h-96 bg-gray-400 rounded-md overflow-hidden">
       <img className="w-full h-full bg-cover" src={pr4} alt="" />
       </div>
 
