@@ -39,7 +39,7 @@ function HeroSection() {
             <button className="font-lexend py-2 px-6 sm:py-3 sm:px-8 bg-customOrange hover:bg-orange-600 hover:scale-105 rounded-lg text-white text-xs sm:text-sm font-bold">About Me</button>
           </div>
           <div className="w-full md:w-[60%] lg:w-[32.5%] flex justify-center md:justify-end mt-6 md:mt-0">
-            <img className="w-[88%] md:w-[60rem] lg:w-full" src={Me} alt="Me" />
+            <img className="w-[50%] md:w-[60rem] lg:w-full" src={Me} alt="Me" />
           </div>
         </div>
       </div>
